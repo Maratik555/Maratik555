@@ -18,9 +18,8 @@ More About Me:
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> 
 <br/>
-<a href='https://www.codewars.com/users/Maratik555' target='_blank'><img alt='codewars' src=https://www.codewars.com/users/Maratik555/badges/small></a>
-
 ### Socials
+<a href='https://www.codewars.com/users/Maratik555' target='_blank'><img alt='codewars' src=https://www.codewars.com/users/Maratik555/badges/small></a>
 <p align="left">
                     <a href="https://codesandbox.io/u/maratik555" target="_blank" rel="noreferrer">
                     <picture>
