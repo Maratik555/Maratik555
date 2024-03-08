@@ -13,7 +13,9 @@ More About Me:
 *   ✉️  You can contact me at [amr99930@gmail.com](mailto:amr99930@gmail.com)
 *   🧠  I'm learning Django
 *   🤝  I'm open to collaborating on interesting projects
+*   💬 &nbsp; Ask me about anything tech related, I am happy to help
 *   ⚡  Checkout my resume
+  <br/>
     
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> 
  
@@ -56,5 +58,11 @@ More About Me:
                   
 ### 📊 Github Stats
 <a href='https://github.com/Maratik555/github-stats-transparent'>
-<a href="http://www.github.com/Maratik555"><img src="https://github-readme-stats.vercel.app/api?username=Maratik555&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maratik555's GitHub stats" /></a>
-<a href="http://www.github.com/Maratik555"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maratik555&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> <a href="https://github.com/Maratik555" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maratik555&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br/><br/>
+![Stats Overview](https://raw.githubusercontent.com/Maratik555/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/Maratik555/github-stats-transparent/output/generated/languages.svg)
+</a>
+<a href="http://www.github.com/Maratik555"><img src="https://github-readme-stats.vercel.app/api?username=Maratik555&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maratik555's GitHub stats" />
+</a>
+<a href="http://www.github.com/Maratik555"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Maratik555&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Maratik555" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maratik555&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/><br/>
