@@ -6,13 +6,14 @@ Frontend Developer
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. I love frontend JS/TS❤️
 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> 
+ 
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [amr99930@gmail.com](mailto:amr99930@gmail.com)
 *   🧠  I'm learning Django
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  Checkout my resume
-    <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>     
-    
+       
 <a href='https://www.codewars.com/users/Maratik555' target='_blank'><img alt='codewars' src=https://www.codewars.com/users/Maratik555/badges/small></a>
 
 <p align="left">
@@ -42,25 +43,11 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
                     </a>
-                      <a href="http://www.instagram.com/amr4042019" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a>
                       <a href="https://www.linkedin.com/in/marat-ahatov-45003a237" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.stackoverflow.com/users/17144588/marat" target="_blank" rel="noreferrer">
-                    <picture>
-                    <source media="(prefers-color-scheme: dark)" srcset="undefined" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
                     </a>
                     </p>
@@ -69,4 +56,5 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="http://www.github.com/Maratik555"><img src="https://github-readme-stats.vercel.app/api?username=Maratik555&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Maratik555's GitHub stats" /></a><a
                       href="http://www.github.com/Maratik555"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Maratik555&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/Maratik555"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Maratik555&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a><a href="https://github.com/Maratik555" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maratik555&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br/><br/>
+                      href="http://www.github.com/Maratik555"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Maratik555&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+                      <a href="https://github.com/Maratik555" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maratik555&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a><br/><br/>
