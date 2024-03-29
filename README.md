@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Frontend Developer
 ------------------
-
+<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/> 
+<br/>
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, 
 or beginner level Designer 🎨) depending on what the project requires. 
 I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. I love frontend JS/TS❤️
@@ -16,8 +17,7 @@ More About Me:
 *   💬 &nbsp; Ask me about anything tech related, I am happy to help
 *   ⚡  Checkout my resume
 
-<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/> 
-<br/>
+
 
 ### Socials
 
