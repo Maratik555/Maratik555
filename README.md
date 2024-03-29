@@ -16,7 +16,7 @@ More About Me:
 *   💬 &nbsp; Ask me about anything tech related, I am happy to help
 *   ⚡  Checkout my resume
 
-<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/> 
+<img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/> 
 <br/>
 
 ### Socials
