@@ -12,7 +12,7 @@ I love exploring new tech stack 💻 and leveraging them to build cool stuffs �
 More About Me:
 *   🌍  I'm based in Russia
 *   ✉️  You can contact me at [amr99930@gmail.com](mailto:amr99930@gmail.com)
-*   🧠  I'm learning Django
+*   🧠  I'm learning mobile development
 *   🤝  I'm open to collaborating on interesting projects
 *   💬 &nbsp; Ask me about anything tech related, I am happy to help
 *   ⚡  Checkout my resume
