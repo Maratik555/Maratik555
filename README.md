@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marat Akhatov
 =====================================================================================================================================
 
-Frontend Developer
+Fullstack Developer
 ------------------
 <img align="right" aligin="top" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="350px"/> 
 <br/>
