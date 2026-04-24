@@ -165,8 +165,6 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
   <img src="https://raw.githubusercontent.com/Maratik555/Maratik555/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
-> *⏳ Генерируется автоматически GitHub Actions — появится после первого запуска*
-
 ---
 
 ## 🐍 Contribution Snake
@@ -174,8 +172,6 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 <div align="center">
   <img src="https://raw.githubusercontent.com/Maratik555/Maratik555/output/snake-dark.svg" alt="Contribution Snake" />
 </div>
-
-> *⏳ Генерируется автоматически GitHub Actions — появится после первого запуска*
 
 ---
 
