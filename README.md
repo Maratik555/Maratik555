@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="400px" alt="Developer GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" alt="Coding GIF" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -90,8 +90,8 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
   <img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=机器人&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-00C853?style=for-the-badge&logoColor=white" />
 </p>
 
 ### 🛠️ Tools & DevOps
@@ -116,12 +116,6 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 
 ---
 
-## 📌 Pinned Projects
-
-> *Highlight your best projects here by [pinning them](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/pinning-items-to-your-profile) to your profile!*
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -134,7 +128,7 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maratik555&theme=darkhub&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Maratik555&theme=onedark&no-frame=true&no-bg=false&column=4" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
