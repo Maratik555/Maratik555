@@ -19,6 +19,12 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 - 💬 **Ask me about:** Anything tech-related — I'm happy to help!
 - 📄 **Check out my:** [Resume / CV](https://github.com/Maratik555/Maratik555)
 
+<p align="center">
+  <a href="https://github.com/Maratik555">
+    <img src="https://img.shields.io/badge/🔍_Open_for_Work-0891B2?style=for-the-badge&labelColor=1c1917" alt="Open for Work" />
+  </a>
+</p>
+
 ---
 
 ## 📬 Connect with Me
@@ -49,6 +55,14 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
     <img src="https://www.codewars.com/users/Maratik555/badges/small" alt="Codewars Badge" />
   </a>
 </p>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</div>
 
 ---
 
@@ -113,6 +127,15 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />
 </p>
+
+---
+
+## 📝 Latest Blog Posts
+
+> *Автоматически обновляется из [dev.to/maratik555](https://dev.to/maratik555)*
+
+<!-- BLOG-POSTS:START -->
+<!-- BLOG-POSTS:END -->
 
 ---
 
