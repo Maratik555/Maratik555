@@ -130,15 +130,6 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 
 ---
 
-## 📝 Latest Blog Posts
-
-> *Автоматически обновляется из [dev.to/maratik555](https://dev.to/maratik555)*
-
-<!-- BLOG-POSTS:START -->
-<!-- BLOG-POSTS:END -->
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
