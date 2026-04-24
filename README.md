@@ -128,12 +128,40 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maratik555&theme=onedark&no-frame=true&no-bg=false&column=4" alt="GitHub Trophies" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Maratik555&bg_color=1c1917&color=0891B2&line=0891B2&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fullstack_Dev-💻-1c1917?style=for-the-badge&labelColor=0891B2" />
+  <img src="https://img.shields.io/badge/Open_Source-❤️-1c1917?style=for-the-badge&labelColor=0891B2" />
+  <img src="https://img.shields.io/badge/100%25_Committed-🔥-1c1917?style=for-the-badge&labelColor=0891B2" />
+  <img src="https://img.shields.io/badge/JS%2FTS_Lover-⚡-1c1917?style=for-the-badge&labelColor=0891B2" />
+  <img src="https://img.shields.io/badge/AI_Explorer-🤖-1c1917?style=for-the-badge&labelColor=0891B2" />
+</p>
+
+---
+
+## 🌄 3D Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maratik555/Maratik555/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</div>
+
+> *⏳ Генерируется автоматически GitHub Actions — появится после первого запуска*
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Maratik555/Maratik555/output/snake-dark.svg" alt="Contribution Snake" />
+</div>
+
+> *⏳ Генерируется автоматически GitHub Actions — появится после первого запуска*
 
 ---
 
