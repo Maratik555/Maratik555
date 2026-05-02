@@ -102,6 +102,7 @@ I'm a passionate **Full-Stack Developer** who loves building elegant solutions a
 ### 🤖 AI & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/OpenClaw-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes-092829?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logoColor=white" />
